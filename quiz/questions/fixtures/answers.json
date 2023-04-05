@@ -1,0 +1,227 @@
+[
+  {
+    "model": "questions.answer",
+    "pk": 1,
+    "fields": {
+      "text": "Передний",
+      "correct_answer": "True",
+      "question": 1
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 2,
+    "fields": {
+      "text": "Задний",
+      "correct_answer": "True",
+      "question": 1
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 3,
+    "fields": {
+      "text": "Продольный",
+      "correct_answer": "False",
+      "question": 1
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 4,
+    "fields": {
+      "text": "Поперечный",
+      "correct_answer": "False",
+      "question": 1
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 5,
+    "fields": {
+      "text": "4",
+      "correct_answer": "True",
+      "question": 2
+    }
+  },
+    {
+    "model": "questions.answer",
+    "pk": 6,
+    "fields": {
+      "text": "3",
+      "correct_answer": "False",
+      "question": 2
+    }
+  },
+    {
+    "model": "questions.answer",
+    "pk": 7,
+    "fields": {
+      "text": "2",
+      "correct_answer": "False",
+      "question": 2
+    }
+  },
+    {
+    "model": "questions.answer",
+    "pk": 8,
+    "fields": {
+      "text": "1",
+      "correct_answer": "False",
+      "question": 2
+    }
+  },
+    {
+    "model": "questions.answer",
+    "pk": 9,
+    "fields": {
+      "text": "Да",
+      "correct_answer": "False",
+      "question": 3
+    }
+  },
+    {
+    "model": "questions.answer",
+    "pk": 10,
+    "fields": {
+      "text": "Нет",
+      "correct_answer": "True",
+      "question": 3
+    }
+  },
+    {
+    "model": "questions.answer",
+    "pk": 11,
+    "fields": {
+      "text": "3",
+      "correct_answer": "True",
+      "question": 4
+    }
+  },
+    {
+    "model": "questions.answer",
+    "pk": 12,
+    "fields": {
+      "text": "2",
+      "correct_answer": "True",
+      "question": 4
+    }
+  },
+    {
+    "model": "questions.answer",
+    "pk": 13,
+    "fields": {
+      "text": "1",
+      "correct_answer": "False",
+      "question": 4
+    }
+  },
+      {
+    "model": "questions.answer",
+    "pk": 14,
+    "fields": {
+      "text": "Python",
+      "correct_answer": "True",
+      "question": 5
+    }
+  },
+      {
+    "model": "questions.answer",
+    "pk": 15,
+    "fields": {
+      "text": "JavaScript",
+      "correct_answer": "True",
+      "question": 5
+    }
+  },
+      {
+    "model": "questions.answer",
+    "pk": 16,
+    "fields": {
+      "text": "C++",
+      "correct_answer": "False",
+      "question": 5
+    }
+  },
+      {
+    "model": "questions.answer",
+    "pk": 17,
+    "fields": {
+      "text": "Java",
+      "correct_answer": "False",
+      "question": 5
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 18,
+    "fields": {
+      "text": "this",
+      "correct_answer": "False",
+      "question": 6
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 19,
+    "fields": {
+      "text": "that",
+      "correct_answer": "False",
+      "question": 6
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 20,
+    "fields": {
+      "text": "self",
+      "correct_answer": "True",
+      "question": 6
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 21,
+    "fields": {
+      "text": "what",
+      "correct_answer": "False",
+      "question": 6
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 22,
+    "fields": {
+      "text": "Moveton",
+      "correct_answer": "False",
+      "question": 7
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 23,
+    "fields": {
+      "text": "Singleton",
+      "correct_answer": "True",
+      "question": 7
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 24,
+    "fields": {
+      "text": "Bad tone",
+      "correct_answer": "False",
+      "question": 7
+    }
+  },
+  {
+    "model": "questions.answer",
+    "pk": 25,
+    "fields": {
+      "text": "Mediator",
+      "correct_answer": "False",
+      "question": 7
+    }
+  }
+]

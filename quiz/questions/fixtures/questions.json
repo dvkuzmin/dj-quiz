@@ -1,0 +1,58 @@
+[
+  {
+    "model": "questions.question",
+    "pk": 1,
+    "fields": {
+      "text": "Какие бывают типы приводов?",
+      "category": 1
+    }
+  },
+  {
+    "model": "questions.question",
+    "pk": 2,
+    "fields": {
+      "text": "Сколько колес у автомобиля?",
+      "category": 1
+    }
+  },
+    {
+    "model": "questions.question",
+    "pk": 3,
+    "fields": {
+      "text": "Является ли Java сокращенным названием Javascript?",
+      "category": 2
+    }
+  },
+    {
+    "model": "questions.question",
+    "pk": 4,
+    "fields": {
+      "text": "Сколько бывает педалей у автомобиля?",
+      "category": 1
+    }
+  },
+    {
+    "model": "questions.question",
+    "pk": 5,
+    "fields": {
+      "text": "Какие из этих ЯП скриптовые?",
+      "category": 2
+    }
+  },
+    {
+    "model": "questions.question",
+    "pk": 6,
+    "fields": {
+      "text": "Как в классах Python обозначают ссылку на объект?",
+      "category": 2
+    }
+  },
+    {
+    "model": "questions.question",
+    "pk": 7,
+    "fields": {
+      "text": "Как называется паттерн проектирования, при котором создается лишь один экземпляр класса?",
+      "category": 2
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "model": "questions.category",
+    "pk": 1,
+    "fields": {
+      "title": "Автомобили"
+    }
+  },
+  {
+    "model": "questions.category",
+    "pk": 2,
+    "fields": {
+      "title": "Программирование"
+    }
+  }
+]
